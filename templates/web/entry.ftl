@@ -25,7 +25,7 @@
 	<body>
 		<@crafter.body_top/>
 		<main>
-		<h1>Code change</h1>
+		<h1>Another code change</h1>
 			<@crafter.h1 $field="title_t">${model.title_t}</@crafter.h1>
 			<@crafter.div $field="body_html">${model.body_html}</@crafter.div>
 		</main>
