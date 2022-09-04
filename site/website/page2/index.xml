@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/entry</content-type>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ff34</objectGroupId>
+	<objectId>ff3452b2-8a6a-1643-aaf5-9b990f246042</objectId>
+	<disabled>false</disabled>
+	<internal-name>New Page 2</internal-name>
+	<title_t>Baa</title_t>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>page2</folder-name>
+	<body_html>&lt;p&gt;asdad&lt;/p&gt;</body_html>
+	<createdDate>2022-09-04T20:06:24.814Z</createdDate>
+	<createdDate_dt>2022-09-04T20:06:24.814Z</createdDate_dt>
+	<lastModifiedDate>2022-09-04T20:06:24.814Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-09-04T20:06:24.814Z</lastModifiedDate_dt>
+</page>
